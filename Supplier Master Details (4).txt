@@ -1,0 +1,5 @@
+Sr.#~#Transaction ID#~#Transaction Type#~#Group ID#~#Name of Group#~#Member ID#~#Name of Member
+1#~#1#~#Credit#~#7#~#group 125#~#3#~#sagar
+2#~#2#~#Debit#~#7#~#group 125#~#3#~#sagar
+3#~#2#~#Debit#~#5#~#group 124#~#3#~#sagar
+4#~#1#~#Credit#~#5#~#group 124#~#3#~#sagar
